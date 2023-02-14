@@ -1,0 +1,250 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Helvetica, sans-serif;
+}
+
+/* nav */
+#logo-mian{
+  width: 30px;
+}
+.s-two{
+    background-color: rgb(237,235,233);
+}
+.s-two-f-div{
+    padding-left: 12vw;
+    padding-top: 20px;
+}
+
+
+
+
+h3{
+    font-size: 24px;
+    font-weight:500;
+    padding-left: 8vw;
+    padding-bottom: 20px;
+
+}
+h6{
+    padding-left: 9vw;
+}
+
+.first-s-div{
+    width: 150px;
+    height: 100%;
+    text-align: center;
+    font-size: 12px;
+    font-family: Helvetica, sans-serif;
+    font-weight:bold;
+
+}
+.first-s-div img{
+    width: 108px;
+    height: 108px;
+    border-radius: 54px;
+}
+
+
+.card{
+    padding: 15px;
+    height: 180px;
+    margin: 0 auto;
+    float: none;
+    margin-bottom: 60px;
+    width:320px;
+    border-radius: 10px;
+
+}
+.image-wrapper{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+
+}
+ 
+
+.image-wrapper img{
+    width: 80px;
+    height: 80px;
+    border-radius: 9px;
+}
+.greendot{
+   padding-left: 1px;
+    width: 100%;
+    height: 30px;
+}
+.greendot img{
+    
+    height: 20px;
+}
+.div-wrapper{
+    display: flex;
+    width: 100%;
+    flex-direction: column;
+}
+.text-one{
+    padding-left: 25px;
+    height: 30px;
+    
+}
+.text-one p{
+    font-size: 15px;
+    font-weight: bold;
+}
+.subtitle{
+    height: 30px;
+    padding-left: 25px;
+    
+}
+
+.subtitle p{
+    
+    font-size: 8px;
+    color: rgb(56, 50, 50);
+
+}
+.card-body{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+
+}
+.btn{
+    border-radius: 20px;
+    font-size: 10px;
+}
+.section-two{
+    height: 400px;
+    background-color: aqua;
+}
+
+
+
+.section-div-three{
+    border-radius: 20px;
+    margin: 0%;
+    padding: 0%;
+    width: 100%;
+ 
+    background-image: url("images/background-green.png");
+    
+}
+.section-div-three img{
+    width: 100%;
+
+}
+.s-three{
+    padding: 60px;
+}
+.pic{
+    height: 100%;
+    width: 100px;
+    display: flex;
+}
+.pic img{
+    display: inline;
+    align-self: flex-end;
+
+}
+.right-div{
+    width: 100%;
+    color: white;
+}
+.right-div h3{
+padding-left: 0;
+}
+.right-div button{
+    color: black;
+    padding: 10px;
+    border: none;
+    border-radius: 27px;
+    font-size: 12px;
+    margin-right: 10px;
+}
+.button-div{
+    display: flex;
+    justify-content: end;
+}
+.two-text-end{
+    display: flex;
+}
+
+.coffee-beans img{
+    width: 100%;
+    border-radius: 20px;
+    height: 300px;
+}
+
+.cf-b-section{
+    padding: 30px;
+    background-color: rgb(237,235,233);
+}
+.cf-abso-div{
+    color: white;
+    padding-top: 170px;
+   padding-left: 30px;
+}
+.cf-abso-div h4{
+font-size: 16px; 
+font-weight: bold;   
+}
+.cf-abso-div p{
+    font-size: 13px;
+    font-weight: bold;
+}
+.cf-abso-div button{
+    font-size: 8px;
+    padding: 7px 20px 7px 20px;
+    padding: 6px;
+    font-weight: bold;
+    color: black;
+    border-radius: 20px;
+    border: none;
+}
+.discover-btn{
+    padding: 7px 30px 7px 30px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+    color: white;
+    border-radius: 20px;
+    font-size: 11px;
+    font-weight: bold;
+
+}
+.f1{
+    padding: 2vw;
+}
+.f2 img{
+    width: 50px;
+}
+.f2 li{
+    list-style-type: none;
+    
+}
+.title-footer{
+    font-weight: bold;
+    font-size: 17px;
+}
+.text-footer{
+    font-size: 12px;
+    line-height: 20px;
+}
+.download-frm img{
+    width: 15vw;
+    margin-bottom: 10px;
+}
+.f2{
+    margin-top: 20px;
+    justify-content: center;
+    align-items: center;
+}
+.copy-write{
+    font-size: 12px;
+}
+.web-acc{
+    line-height: 6px;
+}
+
+
